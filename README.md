@@ -46,7 +46,3 @@
 📱 **WhatsApp**: [+55 (17) 99134-1747](https://wa.me/5517991341747)  
 🌐 **Portfólio no Behance**: [behance.net/obrunostewart](https://behance.net/obrunostewart)  
 💼 **LinkedIn**: [linkedin.com/in/obrunostewart](https://linkedin.com/in/obrunostewart)
-
----
-
-O foco em **Engenharia de Prompt** mostra sua expertise com ferramentas modernas de IA, ampliando ainda mais seu alcance profissional. O que achou desse formato? 😊
