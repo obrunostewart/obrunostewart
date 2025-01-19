@@ -8,7 +8,7 @@
 
 <div align="center"> 
   <h1 align="center">Redes sociais</h1>
-  <a href="mailto:obrunostewart@gmail.com">
+  <a href="mailto: obrunostewart@gmail.com">
     <img width="30" src="gmail.svg">
   </a>
   <a href="https://www.linkedin.com/in/obrunostewart/">
