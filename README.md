@@ -1,8 +1,8 @@
 ## Bem Vindo ao Meu Perfil
 
-<div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obrunostewart&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="atomo.gif"> <!-- Adicionado o GIF -->
+  <img height="180em" src="atomo.gif"> 
 </div>
 <br>
 
