@@ -1,7 +1,3 @@
-Com certeza! Vou adicionar a **Engenharia de Prompt** ao conteúdo, destacando-a como uma das suas habilidades principais. Veja abaixo como ficaria o seu perfil do GitHub atualizado com as alterações:
-
----
-
 # **Bem-Vindo ao Meu Perfil**
 
 <div align="center"> 
