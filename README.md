@@ -1,11 +1,5 @@
 ## Bem Vindo ao Meu Perfil
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obrunostewart&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="atomo.gif"> 
-</div>
-<br>
-
 <div align="center"> 
   <h1 align="center">Redes sociais</h1>
   <a href="mailto: obrunostewart@gmail.com" style="text-decoration: none;">
