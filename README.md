@@ -14,3 +14,12 @@
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+## 🛠️ Habilidades Técnicas
+
+- **Web Design**: HTML, CSS, JavaScript, Figma, Photoshop, Illustrator
+- **UX/UI Design**: Prototipação, Design Responsivo, Branding
+- **Desenvolvimento de Funis**: Criação de páginas de captura e automação
+- **Marketing Digital**: Campanhas de tráfego pago (Google, Facebook, Instagram Ads)
+- **Motion Design**: Edição de vídeos, animações para redes sociais
+- **Linguagens e Frameworks**: PHP, Dreamweaver, Fireworks
