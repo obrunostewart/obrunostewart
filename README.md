@@ -25,7 +25,7 @@
 - **Desenvolvimento de Funis**: Criação de páginas de captura, automação de marketing e geração de leads  
 - **Marketing Digital**: Campanhas de tráfego pago (Google Ads, Facebook Ads, Instagram Ads)  
 - **Motion Design**: Edição de vídeos, animações para redes sociais  
-- **Linguagens e Frameworks**: PHP, Dreamweaver, Fireworks  
+- **Linguagens de Programação**: HTML, CSS, JavaScript, Python  
 
 
 ---
