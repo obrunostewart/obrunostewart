@@ -46,3 +46,8 @@
 📱 **WhatsApp**: [+55 (17) 99134-1747](https://wa.me/5517991341747)  
 🌐 **Portfólio no Behance**: [behance.net/obrunostewart](https://behance.net/obrunostewart)  
 💼 **LinkedIn**: [linkedin.com/in/obrunostewart](https://linkedin.com/in/obrunostewart)
+
+
+<div align="center">
+  <img src="https://i.ibb.co/sdB6VnrQ/Bruno-Stewart-Desenvolvedor-Web.jpg" alt="Bruno Stewart - Desenvolvedor Web, UX/UI Design & Engenharia de Prompt" width="100%">
+</div>
