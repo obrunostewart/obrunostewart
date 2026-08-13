@@ -1,15 +1,15 @@
-# **Bem-Vindo ao Meu Perfil** 
+# Bruno Stewart
+### Arquiteto de Sistemas, Automação e Engenharia de Conversão
 
 <div align="center"> 
-  <h1 align="center">🌐 Redes Sociais</h1>
   <a href="mailto:obrunostewart@gmail.com" style="text-decoration: none;">
-    <img width="30" src="gmail.svg">
+    <img width="30" src="gmail.svg" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/obrunostewart/" style="text-decoration: none;">
-    <img width="25" src="linkedin.svg">
+    <img width="25" src="linkedin.svg" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/obrunostewart/" style="text-decoration: none;">
-    <img width="25" src="instagram.png">
+    <img width="25" src="instagram.png" alt="Instagram">
   </a>
 </div>
 
@@ -17,37 +17,42 @@
 
 ---
 
-## **🛠️ Habilidades Técnicas**
-
-- **Web Design**: HTML, CSS, JavaScript, Figma, Photoshop, Illustrator  
-- **UX/UI Design**: Prototipação, Design Responsivo, Branding  
-- **Engenharia de Prompt**: Criação e otimização de prompts para ChatGPT, automação de processos e resolução criativa de problemas.  
-- **Desenvolvimento de Funis**: Criação de páginas de captura, automação de marketing e geração de leads  
-- **Marketing Digital**: Campanhas de tráfego pago (Google Ads, Facebook Ads, Instagram Ads)  
-- **Motion Design**: Edição de vídeos, animações para redes sociais  
-- **Linguagens de Programação**: HTML, CSS, JavaScript, Python  
-
+## O Posicionamento
+Deixei a execução criativa manual para construir infraestrutura técnica em escala. Atuo na orquestração de Inteligência Artificial, desenvolvimento de sistemas (SaaS) e integração de fluxos de dados complexos para negócios que precisam de previsibilidade e automação, não apenas de estética.
 
 ---
 
-## **🚀 Resultados Impactantes**
+## Stack Técnico e Infraestrutura
 
-- **Engenharia de Prompt** aplicada para otimizar fluxos de automação em plataformas de IA.  
-- Mais de **30 empresas atendidas** em diferentes setores (Imobiliário, Agronegócio, Financeiro).  
-- Campanhas que geraram **R$ 1 milhão em vendas** em menos de 6 meses.  
-- Funis de vendas que atraíram **milhares de leads** de forma consistente.  
-
+- **Desenvolvimento de Software:** JavaScript, React, Python, HTML/CSS.
+- **Backend & Banco de Dados:** Firebase, estruturação de arquitetura serverless.
+- **Engenharia de Dados e Automação:** Make (Integromat), orquestração de LLMs (APIs de IA), automação de processos de vendas e integração de sistemas B2B.
+- **Infraestrutura de Conversão:** WordPress avançado, desenvolvimento de Landing Pages de alta performance.
+- **Design de Sistemas (UI/UX):** Figma (Criação de Design Systems padronizados e componentizados para handover ágil no Front-end).
 
 ---
 
-## **💡 Vamos Trabalhar Juntos?**
+## Histórico de Operações e Resultados
 
-📧 **E-mail**: [obrunostewart@gmail.com](mailto:obrunostewart@gmail.com)  
-📱 **WhatsApp**: [+55 (17) 99134-1747](https://wa.me/5517991341747)  
-🌐 **Portfólio no Behance**: [behance.net/obrunostewart](https://behance.net/obrunostewart)  
-💼 **LinkedIn**: [linkedin.com/in/obrunostewart](https://linkedin.com/in/obrunostewart)
+- **Desenvolvimento de SaaS:** Arquitetura e programação de um sistema proprietário de gerenciamento financeiro e dashboard em React + Firebase.
+- **Escala de Operações B2B:** Estruturação técnica de ecossistemas digitais que permitiram o hipercrescimento de unidades de negócio, escalando do zero a +R$ 70k/mês em MRR.
+- **Engenharia de Prompt Aplicada:** Construção de fluxos de automação guiados por IA para eliminação de gargalos operacionais e redução de custos com mão de obra em agências e empresas.
+- **Geração de Receita Mensurável:** Mais de 30 ecossistemas construídos (Agronegócio, Instituições Financeiras, Imobiliário), operando campanhas rastreadas que ultrapassaram a marca de R$ 1 milhão em vendas.
 
+---
 
 <div align="center">
-  <img src="https://i.ibb.co/sdB6VnrQ/Bruno-Stewart-Desenvolvedor-Web.jpg" alt="Bruno Stewart - Desenvolvedor Web, UX/UI Design & Engenharia de Prompt" width="100%">
+
+## Balcão de Serviços e Contato
+
+Se a sua operação precisa de retaguarda técnica para estruturar sistemas escaláveis ou integrar automações com IA, o meu balcão está aberto.
+
+**E-mail**: <a href="mailto:obrunostewart@gmail.com">obrunostewart@gmail.com</a><br>
+**WhatsApp**: <a href="https://wa.me/5517991341747">+55 (17) 99134-1747</a><br>
+**LinkedIn**: <a href="https://linkedin.com/in/obrunostewart">linkedin.com/in/obrunostewart</a>
+
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/sdB6VnrQ/Bruno-Stewart-Desenvolvedor-Web.jpg" alt="Bruno Stewart - Arquiteto de Sistemas" width="100%">
 </div>
