@@ -1,6 +1,9 @@
 <div align="center"> 
-  # Bruno Stewart
-  ### Desenvolvedor de Sistemas, Automação e Engenharia de Conversão
+  <h1>Bruno Stewart</h1>
+  <h3>Desenvolvedor de Sistemas, Automação e Engenharia de Conversão</h3>
+  
+  <br>
+
   <a href="mailto:obrunostewart@gmail.com" style="text-decoration: none;">
     <img width="30" src="gmail.svg" alt="Email">
   </a>
