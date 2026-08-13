@@ -38,8 +38,7 @@ Se a sua operação precisa de retaguarda técnica para estruturar sistemas esca
 <br><br>
 
 <img src="gmail.svg" width="18"> **E-mail**: <a href="mailto:obrunostewart@gmail.com">obrunostewart@gmail.com</a><br>
-<img src="whatsapp.svg" width="18"> **WhatsApp**: <a href="https://wa.me/5517991341747">+55 (17) 99134-1747</a><br>
-<img src="linkedin.svg" width="18"> **LinkedIn**: <a href="https://linkedin.com/in/obrunostewart">linkedin.com/in/obrunostewart</a><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18"> **WhatsApp**: <a href="https://wa.me/5517991341747">+55 (17) 99134-1747</a><br><img src="linkedin.svg" width="18"> **LinkedIn**: <a href="https://linkedin.com/in/obrunostewart">linkedin.com/in/obrunostewart</a><br>
 <img src="instagram.png" width="18"> **Instagram:** <a href="https://instagram.com/obrunostewart">instagram/obrunostewart</a>
 
 </div>
