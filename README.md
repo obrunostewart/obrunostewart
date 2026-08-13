@@ -2,21 +2,6 @@
   <h1>Bruno Stewart</h1>
   <h3>Desenvolvedor de Sistemas, Automação e Engenharia de Conversão</h3>
   
-  <br>
-
-  <a href="mailto:obrunostewart@gmail.com" style="text-decoration: none;">
-    <img width="30" src="gmail.svg" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/obrunostewart/" style="text-decoration: none;">
-    <img width="25" src="linkedin.svg" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/obrunostewart/" style="text-decoration: none;">
-    <img width="25" src="instagram.png" alt="Instagram">
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation">
 </div>
 
 ---
@@ -44,16 +29,18 @@ Deixei a execução criativa manual para construir infraestrutura técnica em es
 - **Geração de Receita Mensurável:** Mais de 30 ecossistemas construídos (Agronegócio, Instituições Financeiras, Imobiliário), operando campanhas rastreadas que ultrapassaram a marca de R$ 1 milhão em vendas.
 
 ---
-
+  
 <div align="center">
 
-## Balcão de Serviços e Contato
+## Contato
 
 Se a sua operação precisa de retaguarda técnica para estruturar sistemas escaláveis ou integrar automações com IA, o meu balcão está aberto.
+<br><br>
 
-**E-mail**: <a href="mailto:obrunostewart@gmail.com">obrunostewart@gmail.com</a><br>
-**WhatsApp**: <a href="https://wa.me/5517991341747">+55 (17) 99134-1747</a><br>
-**LinkedIn**: <a href="https://linkedin.com/in/obrunostewart">linkedin.com/in/obrunostewart</a>
+<img src="gmail.svg" width="18"> **E-mail**: <a href="mailto:obrunostewart@gmail.com">obrunostewart@gmail.com</a><br>
+<img src="whatsapp.svg" width="18"> **WhatsApp**: <a href="https://wa.me/5517991341747">+55 (17) 99134-1747</a><br>
+<img src="linkedin.svg" width="18"> **LinkedIn**: <a href="https://linkedin.com/in/obrunostewart">linkedin.com/in/obrunostewart</a><br>
+<img src="instagram.png" width="18"> **Instagram:** <a href="https://instagram.com/obrunostewart">instagram/obrunostewart</a>
 
 </div>
 
