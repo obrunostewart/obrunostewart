@@ -34,7 +34,7 @@ Deixei a execução criativa manual para construir infraestrutura técnica em es
 
 ## Contato
 
-Se a sua operação precisa de retaguarda técnica para estruturar sistemas escaláveis ou integrar automações com IA, o meu balcão está aberto.
+Se a sua operação precisa de retaguarda técnica para estruturar sistemas escaláveis ou integrar automações com IA, entre em contato!
 <br><br>
 
 <img src="gmail.svg" width="18"> **E-mail**: <a href="mailto:obrunostewart@gmail.com">obrunostewart@gmail.com</a><br>
