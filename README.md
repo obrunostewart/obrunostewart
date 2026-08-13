@@ -1,7 +1,6 @@
-# Bruno Stewart
-### Arquiteto de Sistemas, Automação e Engenharia de Conversão
-
 <div align="center"> 
+  # Bruno Stewart
+  ### Desenvolvedor de Sistemas, Automação e Engenharia de Conversão
   <a href="mailto:obrunostewart@gmail.com" style="text-decoration: none;">
     <img width="30" src="gmail.svg" alt="Email">
   </a>
