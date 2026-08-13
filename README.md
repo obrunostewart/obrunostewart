@@ -40,7 +40,7 @@ Se a sua operação precisa de retaguarda técnica para estruturar sistemas esca
 
 <div align="center">
   <img src="https://i.ibb.co/tMPVcK8s/Bruno-Stewart-Desenvolvedor-Web.jpg" alt="Bruno Stewart - Arquiteto de Sistemas" width="100%">
-</div>
+</div><br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18"> **WhatsApp**: <a href="https://wa.me/5517991341747">+55 (17) 99134-1747</a><br><br>
 <img src="gmail.svg" width="18"> **E-mail**: <a href="mailto:obrunostewart@gmail.com">obrunostewart@gmail.com</a><br><br>
