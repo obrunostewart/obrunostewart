@@ -44,5 +44,5 @@ Se a sua operação precisa de retaguarda técnica para estruturar sistemas esca
 </div>
 
 <div align="center">
-  <img src="https://i.ibb.co/sdB6VnrQ/Bruno-Stewart-Desenvolvedor-Web.jpg" alt="Bruno Stewart - Arquiteto de Sistemas" width="100%">
+  <img src="https://i.ibb.co/tMPVcK8s/Bruno-Stewart-Desenvolvedor-Web.jpg" alt="Bruno Stewart - Arquiteto de Sistemas" width="100%">
 </div>
