@@ -42,7 +42,7 @@ Se a sua operação precisa de retaguarda técnica para estruturar sistemas esca
   <img src="https://i.ibb.co/ymkY8PCj/sign-1232781.jpg" alt="Bruno Stewart - Arquiteto de Sistemas" width="100%">
 </div><br>
 
-<img src="behance.svg" width="18"> **Behance:** <a href="https://www.behance.net/obrunostewart">behance.net/obrunostewart</a><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="18"> **Behance:** <a href="https://www.behance.net/obrunostewart">behance.net/obrunostewart</a><br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18"> **WhatsApp**: <a href="https://wa.me/5517991341747">+55 (17) 99134-1747</a><br><br>
 <img src="gmail.svg" width="18"> **E-mail**: <a href="mailto:obrunostewart@gmail.com">obrunostewart@gmail.com</a><br><br>
 <img src="linkedin.svg" width="18"> **LinkedIn**: <a href="https://linkedin.com/in/obrunostewart">linkedin.com/in/obrunostewart</a><br><br>
