@@ -1,7 +1,8 @@
 <div align="center"> 
+  <img src="https://i.ibb.co/9k4KZtLk/logo1983128371.png" alt="Logo Bruno Stewart" width="120">
+  <br>
   <h1>Bruno Stewart</h1>
   <h3>Desenvolvedor de Sistemas, Automação e Engenharia de Conversão</h3>
-  
 </div>
 
 ---
