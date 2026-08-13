@@ -38,13 +38,13 @@ Deixei a execução criativa manual para construir infraestrutura técnica em es
 Se a sua operação precisa de retaguarda técnica para estruturar sistemas escaláveis ou integrar automações com IA, entre em contato!
 <br><br>
 
+<div align="center">
+  <img src="https://i.ibb.co/tMPVcK8s/Bruno-Stewart-Desenvolvedor-Web.jpg" alt="Bruno Stewart - Arquiteto de Sistemas" width="100%">
+</div>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18"> **WhatsApp**: <a href="https://wa.me/5517991341747">+55 (17) 99134-1747</a><br><br>
 <img src="gmail.svg" width="18"> **E-mail**: <a href="mailto:obrunostewart@gmail.com">obrunostewart@gmail.com</a><br><br>
 <img src="linkedin.svg" width="18"> **LinkedIn**: <a href="https://linkedin.com/in/obrunostewart">linkedin.com/in/obrunostewart</a><br><br>
 <img src="instagram.png" width="18"> **Instagram:** <a href="https://instagram.com/obrunostewart">instagram/obrunostewart</a>
 
-</div>
-
-<div align="center">
-  <img src="https://i.ibb.co/tMPVcK8s/Bruno-Stewart-Desenvolvedor-Web.jpg" alt="Bruno Stewart - Arquiteto de Sistemas" width="100%">
 </div>
