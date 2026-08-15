@@ -8,7 +8,9 @@
 ---
 
 ## Sobre mim
-Deixei a execução criativa manual para construir infraestrutura técnica em escala. Atuo na orquestração de Inteligência Artificial, desenvolvimento de sistemas (SaaS) e integração de fluxos de dados complexos para negócios que precisam de previsibilidade e automação, não apenas de estética.
+Deixei de ser apenas um designer, webdesigner e copywiter, executando apenas criações manuais para construir infraestrutura técnica em escala. 
+
+Atuo na orquestração de Inteligência Artificial, desenvolvimento de sistemas (SaaS) e integração de fluxos de dados complexos para negócios que precisam de previsibilidade e automação, não apenas de estética.
 
 ---
 
